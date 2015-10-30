@@ -1,0 +1,16 @@
+body 
+{
+  margin: 0;
+  padding: 0;
+  background-color: #CCC;  
+}
+
+.fileuploadholder
+{
+  width:400px;
+  height: 200px;
+  margin: 60px auto 0px auto;
+  background-color: #FFF;
+  border: 1px solid #CCC;
+  padding: 6px;
+}
